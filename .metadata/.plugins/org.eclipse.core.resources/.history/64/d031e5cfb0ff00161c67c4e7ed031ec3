@@ -1,6 +1,6 @@
 
 public interface Device {
-public void turn_on();
-public void turn_off();
+public void turn on();
+public void turn off();
 public void getstatus();
 }
